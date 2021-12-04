@@ -1,0 +1,242 @@
+[04-Apr-2018 16:48:27 America/New_York] PHP Notice:  Undefined index: user in /home/umamdeps/public_html/admin/includes/header.php on line 37 
+[05-Apr-2018 03:21:47 America/New_York] PHP Notice:  Undefined index: user in /home/umamdeps/public_html/admin/includes/header.php on line 37
+[05-Apr-2018 03:31:43 America/New_York] PHP Notice:  Undefined index: subItems in /home/umamdeps/public_html/admin/product-category.php on line 36
+[05-Apr-2018 04:32:44 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:32:44 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:32:44 America/New_York] PHP Notice:  Undefined index: rocket_number in /home/umamdeps/public_html/admin/orders.php on line 105
+[05-Apr-2018 04:32:44 America/New_York] PHP Notice:  Undefined index: rocket_trid in /home/umamdeps/public_html/admin/orders.php on line 106
+[05-Apr-2018 04:32:44 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:32:44 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:32:44 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:32:44 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:33:56 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:33:56 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:33:56 America/New_York] PHP Notice:  Undefined index: rocket_number in /home/umamdeps/public_html/admin/orders.php on line 105
+[05-Apr-2018 04:33:56 America/New_York] PHP Notice:  Undefined index: rocket_trid in /home/umamdeps/public_html/admin/orders.php on line 106
+[05-Apr-2018 04:33:56 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:33:56 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:33:56 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:33:56 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:16 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:16 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:16 America/New_York] PHP Notice:  Undefined index: rocket_number in /home/umamdeps/public_html/admin/orders.php on line 105
+[05-Apr-2018 04:45:16 America/New_York] PHP Notice:  Undefined index: rocket_trid in /home/umamdeps/public_html/admin/orders.php on line 106
+[05-Apr-2018 04:45:16 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:16 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:16 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:16 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:21 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:21 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:21 America/New_York] PHP Notice:  Undefined index: rocket_number in /home/umamdeps/public_html/admin/orders.php on line 105
+[05-Apr-2018 04:45:21 America/New_York] PHP Notice:  Undefined index: rocket_trid in /home/umamdeps/public_html/admin/orders.php on line 106
+[05-Apr-2018 04:45:21 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:21 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:21 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:21 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:24 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:24 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:24 America/New_York] PHP Notice:  Undefined index: rocket_number in /home/umamdeps/public_html/admin/orders.php on line 105
+[05-Apr-2018 04:45:24 America/New_York] PHP Notice:  Undefined index: rocket_trid in /home/umamdeps/public_html/admin/orders.php on line 106
+[05-Apr-2018 04:45:24 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:24 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:24 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:24 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:28 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:28 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:28 America/New_York] PHP Notice:  Undefined index: rocket_number in /home/umamdeps/public_html/admin/orders.php on line 105
+[05-Apr-2018 04:45:28 America/New_York] PHP Notice:  Undefined index: rocket_trid in /home/umamdeps/public_html/admin/orders.php on line 106
+[05-Apr-2018 04:45:28 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:28 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:28 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:28 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:31 America/New_York] PHP Notice:  Undefined index: rocket_number in /home/umamdeps/public_html/admin/orders.php on line 105
+[05-Apr-2018 04:45:31 America/New_York] PHP Notice:  Undefined index: rocket_trid in /home/umamdeps/public_html/admin/orders.php on line 106
+[05-Apr-2018 04:45:31 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:31 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:31 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:31 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:34 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:34 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:34 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:34 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:45:37 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 04:45:37 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 04:46:32 America/New_York] PHP Notice:  Undefined variable: conn_pr in /home/umamdeps/public_html/admin/update-product.php on line 8
+[05-Apr-2018 04:46:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/update-product.php on line 8
+[05-Apr-2018 04:46:32 America/New_York] PHP Notice:  Undefined variable: conn_pr in /home/umamdeps/public_html/admin/update-product.php on line 9
+[05-Apr-2018 04:46:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/update-product.php on line 9
+[05-Apr-2018 04:46:32 America/New_York] PHP Notice:  Undefined variable: conn_pr in /home/umamdeps/public_html/admin/update-product.php on line 10
+[05-Apr-2018 04:46:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/update-product.php on line 10
+[05-Apr-2018 04:46:32 America/New_York] PHP Fatal error:  Call to undefined function delTree() in /home/umamdeps/public_html/admin/includes/functions.php on line 401
+[05-Apr-2018 04:47:50 America/New_York] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 04:47:50 America/New_York] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[05-Apr-2018 04:47:50 America/New_York] PHP Notice:  Undefined variable: file in /home/umamdeps/public_html/admin/includes/functions.php on line 185
+[05-Apr-2018 04:47:50 America/New_York] PHP Notice:  Undefined index: pcountry in /home/umamdeps/public_html/admin/update-product.php on line 78
+[05-Apr-2018 04:47:50 America/New_York] PHP Notice:  Undefined index: pcountry in /home/umamdeps/public_html/admin/update-product.php on line 79
+[05-Apr-2018 04:47:50 America/New_York] PHP Notice:  Undefined index: pcountry in /home/umamdeps/public_html/admin/update-product.php on line 80
+[05-Apr-2018 04:49:29 America/New_York] PHP Warning:  scandir(../proimg/100102): failed to open dir: No such file or directory in /home/umamdeps/public_html/admin/includes/functions.php on line 399
+[05-Apr-2018 04:49:29 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/umamdeps/public_html/admin/includes/functions.php on line 399
+[05-Apr-2018 04:49:29 America/New_York] PHP Warning:  array_diff(): Argument #1 is not an array in /home/umamdeps/public_html/admin/includes/functions.php on line 399
+[05-Apr-2018 04:49:29 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/umamdeps/public_html/admin/includes/functions.php on line 400
+[05-Apr-2018 04:49:29 America/New_York] PHP Warning:  rmdir(../proimg/100102): No such file or directory in /home/umamdeps/public_html/admin/includes/functions.php on line 403
+[05-Apr-2018 04:49:29 America/New_York] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 04:49:29 America/New_York] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[05-Apr-2018 04:49:29 America/New_York] PHP Notice:  Undefined variable: file in /home/umamdeps/public_html/admin/includes/functions.php on line 185
+[05-Apr-2018 04:49:29 America/New_York] PHP Notice:  Undefined index: pcountry in /home/umamdeps/public_html/admin/update-product.php on line 78
+[05-Apr-2018 04:49:29 America/New_York] PHP Notice:  Undefined index: pcountry in /home/umamdeps/public_html/admin/update-product.php on line 79
+[05-Apr-2018 04:49:29 America/New_York] PHP Notice:  Undefined index: pcountry in /home/umamdeps/public_html/admin/update-product.php on line 80
+[05-Apr-2018 05:22:11 America/New_York] PHP Notice:  Undefined index: user in /home/umamdeps/public_html/admin/includes/header.php on line 37
+[05-Apr-2018 05:56:32 America/New_York] PHP Notice:  Undefined index: bkash_number in /home/umamdeps/public_html/admin/orders.php on line 98
+[05-Apr-2018 05:56:32 America/New_York] PHP Notice:  Undefined index: bkash_trid in /home/umamdeps/public_html/admin/orders.php on line 99
+[05-Apr-2018 05:56:32 America/New_York] PHP Notice:  Undefined index: adress in /home/umamdeps/public_html/admin/orders.php on line 77
+[05-Apr-2018 06:49:28 America/New_York] PHP Notice:  Undefined index: user in /home/umamdeps/public_html/admin/includes/header.php on line 37
+[05-Apr-2018 07:53:27 America/New_York] PHP Warning:  mkdir(): Permission denied in /home/umamdeps/public_html/admin/add-product.php on line 73
+[05-Apr-2018 07:53:27 America/New_York] PHP Warning:  rename(../bk.jpg,../proimg/100132/1.jpg): No such file or directory in /home/umamdeps/public_html/admin/add-product.php on line 81
+[05-Apr-2018 07:54:46 America/New_York] PHP Warning:  mkdir(): Permission denied in /home/umamdeps/public_html/admin/includes/functions.php on line 177
+[05-Apr-2018 07:54:46 America/New_York] PHP Warning:  rename(../cr3.jpg,../proimg/100132/1.jpg): No such file or directory in /home/umamdeps/public_html/admin/includes/functions.php on line 182
+[05-Apr-2018 08:43:52 America/New_York] PHP Warning:  mkdir(): Permission denied in /home/umamdeps/public_html/admin/add-product.php on line 73
+[05-Apr-2018 08:43:52 America/New_York] PHP Warning:  rename(../cr3.jpg,../proimg/100133/1.jpg): No such file or directory in /home/umamdeps/public_html/admin/add-product.php on line 81
+[05-Apr-2018 08:45:17 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/delete-product.php on line 7
+[05-Apr-2018 08:45:17 America/New_York] PHP Warning:  unlink(../proimg/): Is a directory in /home/umamdeps/public_html/admin/delete-product.php on line 8
+[05-Apr-2018 08:45:17 America/New_York] PHP Fatal error:  Call to a member function query() on null in /home/umamdeps/public_html/admin/delete-product.php on line 12
+[05-Apr-2018 08:48:19 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/inner-pages.php on line 8
+[05-Apr-2018 08:48:19 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/inner-pages.php on line 9
+[05-Apr-2018 09:19:32 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/title.php on line 9 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 09:19:32 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/title.php on line 9 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 09:19:32 America/New_York] PHP Warning:  Illegal string offset '../' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 09:19:32 America/New_York] PHP Warning:  Illegal string offset '../' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[05-Apr-2018 09:19:32 America/New_York] PHP Warning:  rename(../,../favicon.ico): Device or resource busy in /home/umamdeps/public_html/admin/title.php on line 10
+[05-Apr-2018 13:54:21 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 21 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 13:54:21 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 21 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 13:54:21 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 13:54:21 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[05-Apr-2018 13:55:13 America/New_York] PHP Warning:  unlink(../images/slider/): Is a directory in /home/umamdeps/public_html/admin/banners.php on line 56
+[05-Apr-2018 13:55:13 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 13:55:13 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 13:55:13 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 13:55:13 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[05-Apr-2018 14:07:38 America/New_York] PHP Warning:  unlink(../images/slider/): Is a directory in /home/umamdeps/public_html/admin/banners.php on line 56
+[05-Apr-2018 14:07:38 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:07:38 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:07:38 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 14:07:38 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[05-Apr-2018 14:10:23 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:10:23 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:10:23 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 14:10:23 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[05-Apr-2018 14:18:32 America/New_York] PHP Warning:  unlink(../images/slider/): Is a directory in /home/umamdeps/public_html/admin/banners.php on line 56
+[05-Apr-2018 14:18:32 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:18:32 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:18:32 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 14:18:32 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[05-Apr-2018 14:20:27 America/New_York] PHP Warning:  unlink(../images/slider/): Is a directory in /home/umamdeps/public_html/admin/banners.php on line 56
+[05-Apr-2018 14:20:27 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:20:27 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:20:27 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 14:20:27 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[05-Apr-2018 14:21:34 America/New_York] PHP Warning:  unlink(../images/slider/): Is a directory in /home/umamdeps/public_html/admin/banners.php on line 56
+[05-Apr-2018 14:21:34 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:21:34 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:21:34 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 14:21:34 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[05-Apr-2018 14:32:12 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:32:12 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:32:12 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 14:32:12 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[05-Apr-2018 14:34:39 America/New_York] PHP Warning:  unlink(../images/slider/): Is a directory in /home/umamdeps/public_html/admin/banners.php on line 56
+[05-Apr-2018 14:34:39 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:34:39 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[05-Apr-2018 14:34:39 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[05-Apr-2018 14:34:39 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[06-Apr-2018 01:12:31 America/New_York] PHP Warning:  unlink(../images/slider/): Is a directory in /home/umamdeps/public_html/admin/banners.php on line 56
+[06-Apr-2018 01:12:31 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[06-Apr-2018 01:12:31 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[06-Apr-2018 01:12:31 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[06-Apr-2018 01:12:31 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[06-Apr-2018 01:13:55 America/New_York] PHP Warning:  unlink(../images/slider/): Is a directory in /home/umamdeps/public_html/admin/banners.php on line 56
+[06-Apr-2018 01:13:55 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[06-Apr-2018 01:13:55 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 60 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[06-Apr-2018 01:13:55 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[06-Apr-2018 01:13:55 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[06-Apr-2018 13:09:40 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/delete-product.php on line 7
+[06-Apr-2018 13:09:40 America/New_York] PHP Warning:  unlink(../proimg/): Is a directory in /home/umamdeps/public_html/admin/delete-product.php on line 8
+[06-Apr-2018 13:09:40 America/New_York] PHP Fatal error:  Call to a member function query() on null in /home/umamdeps/public_html/admin/delete-product.php on line 12
+[06-Apr-2018 13:37:23 America/New_York] PHP Warning:  unlink(../proimg/100134): No such file or directory in /home/umamdeps/public_html/admin/product-category.php on line 19
+[06-Apr-2018 13:40:57 America/New_York] PHP Warning:  unlink(../proimg/100131): Is a directory in /home/umamdeps/public_html/admin/product-category.php on line 19
+[07-Apr-2018 02:13:32 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/title.php on line 9 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[07-Apr-2018 02:13:32 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/title.php on line 9 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[07-Apr-2018 02:13:32 America/New_York] PHP Warning:  Illegal string offset '../' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[07-Apr-2018 02:13:32 America/New_York] PHP Warning:  Illegal string offset '../' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[07-Apr-2018 02:13:32 America/New_York] PHP Warning:  rename(../,../favicon.ico): Device or resource busy in /home/umamdeps/public_html/admin/title.php on line 10
+[07-Apr-2018 03:19:16 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 21 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[07-Apr-2018 03:19:16 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 21 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[07-Apr-2018 03:19:16 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[07-Apr-2018 03:19:16 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[07-Apr-2018 03:21:53 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 21 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[07-Apr-2018 03:21:53 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 21 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[07-Apr-2018 03:21:53 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[07-Apr-2018 03:21:53 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[07-Apr-2018 03:23:01 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 21 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[07-Apr-2018 03:23:01 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 21 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[07-Apr-2018 03:23:01 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[07-Apr-2018 03:23:01 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[07-Apr-2018 03:23:57 America/New_York] PHP Warning:  Missing argument 3 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 21 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[07-Apr-2018 03:23:57 America/New_York] PHP Warning:  Missing argument 4 for upload_image(), called in /home/umamdeps/public_html/admin/banners.php on line 21 and defined in /home/umamdeps/public_html/admin/includes/functions.php on line 171
+[07-Apr-2018 03:23:57 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 173
+[07-Apr-2018 03:23:57 America/New_York] PHP Warning:  Illegal string offset '../images/slider' in /home/umamdeps/public_html/admin/includes/functions.php on line 174
+[07-Apr-2018 04:27:39 America/New_York] PHP Parse error:  syntax error, unexpected '$fields' (T_VARIABLE) in /home/umamdeps/public_html/admin/add-product.php on line 93
+[07-Apr-2018 05:33:59 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/delete-product.php on line 7
+[07-Apr-2018 05:33:59 America/New_York] PHP Warning:  unlink(../proimg/): Is a directory in /home/umamdeps/public_html/admin/delete-product.php on line 8
+[07-Apr-2018 05:33:59 America/New_York] PHP Fatal error:  Call to a member function query() on null in /home/umamdeps/public_html/admin/delete-product.php on line 12
+[07-Apr-2018 05:34:54 America/New_York] PHP Warning:  unlink(../proimg/100149): No such file or directory in /home/umamdeps/public_html/admin/delete-product.php on line 8
+[07-Apr-2018 05:34:54 America/New_York] PHP Fatal error:  Call to a member function query() on null in /home/umamdeps/public_html/admin/delete-product.php on line 12
+[07-Apr-2018 05:36:06 America/New_York] PHP Fatal error:  Call to a member function query() on null in /home/umamdeps/public_html/admin/delete-product.php on line 14
+[07-Apr-2018 05:37:33 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting identifier (T_STRING) in /home/umamdeps/public_html/admin/delete-product.php on line 14
+[07-Apr-2018 08:51:00 America/New_York] PHP Warning:  unlink(../images/slider/): Is a directory in /home/umamdeps/public_html/admin/banners.php on line 56
+[07-Apr-2018 08:54:24 America/New_York] PHP Warning:  unlink(../images/slider/): Is a directory in /home/umamdeps/public_html/admin/banners.php on line 56
+[11-Apr-2018 13:16:44 America/New_York] PHP Warning:  Division by zero in /home/umamdeps/public_html/admin/add-product.php on line 93
+[01-May-2018 05:41:21 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/inner-pages.php on line 8
+[01-May-2018 05:41:21 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/inner-pages.php on line 9
+[01-May-2018 05:43:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/inner-pages.php on line 8
+[01-May-2018 05:43:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/inner-pages.php on line 9
+[01-May-2018 05:45:28 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/inner-pages.php on line 8
+[01-May-2018 05:45:28 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/admin/inner-pages.php on line 9
+[14-May-2018 04:00:36 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/umamdeps_546_admin/inner-pages.php on line 8
+[14-May-2018 04:00:36 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/umamdeps_546_admin/inner-pages.php on line 9
+[21-May-2018 18:33:01 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/umamdeps_546_admin/admins.php on line 58
+[21-May-2018 18:33:14 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/umamdeps_546_admin/admins.php on line 58
+[21-May-2018 18:34:06 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/umamdeps_546_admin/admins.php on line 30
+[21-May-2018 18:34:06 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/umamdeps/public_html/umamdeps_546_admin/admins.php on line 31
+[06-Jun-2018 03:51:21 America/New_York] PHP Fatal error:  Call to undefined function details_page() in /home/umamdeps/public_html/umamdeps_546_admin/orders.php on line 115
+[06-Jun-2018 06:24:07 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'umamdeps_admin'@'localhost' (using password: YES) in /home/skincare54/public_html/shop/skinc_546_admin/includes/config.php on line 42
+[09-Jul-2018 06:39:37 America/New_York] PHP Warning:  POST Content-Length of 20033561 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[09-Jul-2018 06:40:53 America/New_York] PHP Warning:  POST Content-Length of 15809473 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[09-Jul-2018 06:58:19 America/New_York] PHP Warning:  unlink(../proimg/100152): Is a directory in /home/ponnoosheba/public_html/ponno/ponno_546_admin/product-category.php on line 19
+[09-Jul-2018 07:04:17 America/New_York] PHP Warning:  unlink(../proimg/100100): Is a directory in /home/ponnoosheba/public_html/ponno/ponno_546_admin/product-category.php on line 19
+[09-Jul-2018 07:05:57 America/New_York] PHP Warning:  unlink(../proimg/100112): Is a directory in /home/ponnoosheba/public_html/ponno/ponno_546_admin/product-category.php on line 19
+[09-Jul-2018 07:05:57 America/New_York] PHP Warning:  unlink(../proimg/100111): Is a directory in /home/ponnoosheba/public_html/ponno/ponno_546_admin/product-category.php on line 19
+[09-Jul-2018 07:08:17 America/New_York] PHP Warning:  unlink(../proimg/100114): Is a directory in /home/ponnoosheba/public_html/ponno/ponno_546_admin/product-category.php on line 19
+[09-Jul-2018 07:08:17 America/New_York] PHP Warning:  unlink(../proimg/100115): Is a directory in /home/ponnoosheba/public_html/ponno/ponno_546_admin/product-category.php on line 19
+[09-Jul-2018 07:08:17 America/New_York] PHP Warning:  unlink(../proimg/100113): Is a directory in /home/ponnoosheba/public_html/ponno/ponno_546_admin/product-category.php on line 19
+[11-Jul-2018 05:52:17 America/New_York] PHP Warning:  unlink(../proimg/100151): Is a directory in /home/ponnoosheba/public_html/ponno/ponno_546_admin/product-category.php on line 19
+[08-Aug-2018 02:47:45 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:47:45 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:47:45 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:47:45 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:47:45 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:47:45 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:48:29 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:48:29 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:48:29 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:48:29 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:48:29 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:48:29 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:49:20 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:49:20 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:49:20 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:49:20 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:49:20 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[08-Aug-2018 02:49:20 America/New_York] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[09-Aug-2018 03:30:19 America/New_York] PHP Fatal error:  Call to undefined function get_newsletters() in /home/ponnoosheba/public_html/ponno/ponno_546_admin/newsletter.php on line 48
+[18-Aug-2018 03:35:59 America/New_York] PHP Warning:  Division by zero in /home/ponnoosheba/public_html/ponno/ponno_546_admin/add-product.php on line 93
+[06-Oct-2018 02:30:27 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/dressbuddybd/public_html/dbuddy_546_admin/admins.php on line 58
